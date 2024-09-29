@@ -1,0 +1,9 @@
+C:\Users\Денис\Desktop\Project11\Project11\x64\Debug\Project11.vcxproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\Project11\Project11\x64\Debug\Project11.MyForm.resources
+C:\Users\Денис\Desktop\Project11\Project11\x64\Debug\Project11.vcxproj.GenerateResource.cache
+E:\МТУСИ\ИТ\Project11\Project11\x64\Debug\Project11.vcxproj.AssemblyReference.cache
+E:\МТУСИ\ИТ\Project11\Project11\x64\Debug\Project11.MyForm.resources
+E:\МТУСИ\ИТ\Project11\Project11\x64\Debug\Project11.vcxproj.GenerateResource.cache
+C:\Users\roman\source\repos\Project11\Project11\x64\Debug\Project11.vcxproj.AssemblyReference.cache
+C:\Users\roman\source\repos\Project11\Project11\x64\Debug\Project11.MyForm.resources
+C:\Users\roman\source\repos\Project11\Project11\x64\Debug\Project11.vcxproj.GenerateResource.cache

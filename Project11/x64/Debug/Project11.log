@@ -1,0 +1,9 @@
+﻿  GetPut.cpp
+C:\Users\roman\source\repos\Project11\Project11\GetPut.cpp(14,54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\roman\source\repos\Project11\Project11\GetPut.cpp(14,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MyForm.cpp
+  task.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  GetPut.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project11.vcxproj -> C:\Users\roman\source\repos\Project11\x64\Debug\Project11.exe
